@@ -1,0 +1,7 @@
+*.zip
+.phpunit.result.cache
+modals-wp/vendor/
+modals-wp/bin/
+**/**/node_modules
+design-notes
+.env
